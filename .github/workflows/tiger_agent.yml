@@ -1,0 +1,44 @@
+name: Tiger Agent - Autonomous Revenue Generator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-tiger:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Run Tiger Agent
+      run: |
+        echo "🐯 Starting Tiger's autonomous cycle..."
+        python tiger_agent.py
+    
+    - name: Commit memory updates
+      run: |
+        git config --local user.email "tiger-agent@github-actions.bot"
+        git config --local user.name "Tiger Agent"
+        git add tiger_memory.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🐯 Tiger memory update - $(date '+%Y-%m-%d %H:%M:%S')"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
