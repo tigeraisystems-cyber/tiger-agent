@@ -1,0 +1,29 @@
+{
+  "decisions": [
+    {
+      "timestamp": "2026-02-05T11:10:31.205331",
+      "trend": "AI prompt templates",
+      "decision": "create",
+      "confidence": 0.7,
+      "reason": "Score: 0.7"
+    },
+    {
+      "timestamp": "2026-02-05T11:10:31.205882",
+      "trend": "Notion templates for entrepreneurs",
+      "decision": "create",
+      "confidence": 0.7,
+      "reason": "Score: 0.7"
+    },
+    {
+      "timestamp": "2026-02-05T11:10:31.206218",
+      "trend": "Resume templates 2025",
+      "decision": "create",
+      "confidence": 0.7,
+      "reason": "Score: 0.7"
+    }
+  ],
+  "products_created": [],
+  "successful_niches": [],
+  "failed_niches": [],
+  "total_revenue": 0
+}
