@@ -41,6 +41,30 @@
       "decision": "create",
       "confidence": 0.7,
       "reason": "Score: 0.7"
+    },
+    {
+      "timestamp": "2026-02-05T14:15:00.876404",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "AI analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXq4ZoBQaFoNqd8dLsryx'}",
+      "ai_powered": true
+    },
+    {
+      "timestamp": "2026-02-05T14:15:00.970431",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "AI analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXq4ZocConDghNeLpumkY'}",
+      "ai_powered": true
+    },
+    {
+      "timestamp": "2026-02-05T14:15:01.066073",
+      "trend": "Resume templates ATS-friendly 2025",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "AI analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXq4Zp1mPXTRaGyALvVNX'}",
+      "ai_powered": true
     }
   ],
   "products_created": [],
