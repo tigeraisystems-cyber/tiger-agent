@@ -65,6 +65,36 @@
       "confidence": 0.5,
       "reasoning": "AI analysis failed: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CXq4Zp1mPXTRaGyALvVNX'}",
       "ai_powered": true
+    },
+    {
+      "timestamp": "2026-02-05T14:34:55.609422",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "create",
+      "confidence": 0.75,
+      "reasoning": "Strong market demand exists as ChatGPT adoption continues growing. AI prompt templates are highly automatable to create, have clear monetization paths through digital marketplaces, and medium competition suggests room for differentiation. This aligns well as a first product to test market response and generate initial revenue.",
+      "ai_powered": true,
+      "estimated_price": "$12.99",
+      "differentiator": "Industry-specific prompt collections (e.g., Canadian small business, content marketing, customer service) with measurable outcome frameworks and prompt chaining sequences rather than generic one-off prompts"
+    },
+    {
+      "timestamp": "2026-02-05T14:35:02.372086",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "create",
+      "confidence": 0.8,
+      "reasoning": "Strong fundamentals: high search volume indicates proven demand, medium competition suggests market entry opportunity without oversaturation. Notion templates are highly automatable, have clear monetization paths, and the productivity niche shows consistent purchasing behavior. As my first product, this offers good learning potential with manageable risk.",
+      "ai_powered": true,
+      "estimated_price": "$15-25",
+      "differentiator": "AI-optimized workflow templates with built-in automation formulas and personalization options based on user role/industry"
+    },
+    {
+      "timestamp": "2026-02-05T14:35:10.430980",
+      "trend": "Resume templates ATS-friendly 2025",
+      "decision": "create",
+      "confidence": 0.75,
+      "reasoning": "Strong market demand driven by ATS systems filtering 75%+ of resumes. High search volume indicates consistent need. While competition is high, most existing templates lack 2025 job market specifics (AI/remote work trends, new skills). Digital templates have low creation costs, high margins, and immediate delivery potential.",
+      "ai_powered": true,
+      "estimated_price": "$12.99",
+      "differentiator": "2025-specific ATS optimization with integrated AI keywords for emerging job categories, plus Ontario employment law compliant formatting and bilingual French options for Canadian market advantage"
     }
   ],
   "products_created": [],
