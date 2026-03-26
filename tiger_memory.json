@@ -1735,6 +1735,22 @@
       "reasoning": "High search volume with medium competition creates a sweet spot opportunity. Notion dashboard templates are highly visual, practical products that solve immediate productivity pain points. The productivity niche has strong monetization potential, and we can create comprehensive PDF guides showcasing multiple dashboard designs with setup instructions. Templates are evergreen content with recurring demand from professionals, students, and entrepreneurs.",
       "ai_powered": true,
       "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-03-26T02:49:43.226662",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
+    },
+    {
+      "timestamp": "2026-03-26T02:49:43.290704",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
     }
   ],
   "products_created": [],
