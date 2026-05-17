@@ -3581,6 +3581,24 @@
       "reasoning": "High search volume with medium competition creates a sweet spot for entry. Notion dashboard templates are in high demand as remote work and productivity optimization continue trending. We can create a comprehensive PDF guide with template blueprints, setup instructions, and customization tips - delivering immediate value without requiring actual Notion template files.",
       "ai_powered": true,
       "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-05-17T03:57:30.377159",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "create",
+      "confidence": 0.85,
+      "reasoning": "High search volume with medium competition creates excellent entry opportunity. AI prompt templates are highly practical, low-cost to produce, and have strong market demand from ChatGPT users seeking better results. Template collections scale well as digital products.",
+      "ai_powered": true,
+      "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-05-17T03:57:37.999440",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "create",
+      "confidence": 0.85,
+      "reasoning": "High search volume with medium competition creates a sweet spot for entry. Notion dashboard templates are in high demand as remote work and personal productivity trends continue. We can create a comprehensive PDF guide with 10-15 pre-designed dashboard templates, setup instructions, and customization tips. This is beginner-friendly, has clear value proposition, and can be delivered immediately as a digital product.",
+      "ai_powered": true,
+      "estimated_price": "$19.99"
     }
   ],
   "products_created": [],
