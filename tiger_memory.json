@@ -4013,6 +4013,24 @@
       "reasoning": "High search volume with medium competition creates strong opportunity. Notion templates are in high demand but can be delivered as PDF guides showing setup instructions, screenshots, and downloadable template links. Low creation cost, scalable digital product, fits productivity market well.",
       "ai_powered": true,
       "estimated_price": "$19.99"
+    },
+    {
+      "timestamp": "2026-05-29T04:09:10.203562",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "create",
+      "confidence": 0.85,
+      "reasoning": "High search volume with medium competition indicates strong demand without market saturation. AI prompt templates are perfect for PDF delivery, require minimal ongoing maintenance, and target users already willing to pay for productivity tools. The keyword suggests specific intent to purchase ChatGPT-related resources.",
+      "ai_powered": true,
+      "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-05-29T04:09:13.977497",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "create",
+      "confidence": 0.8,
+      "reasoning": "High search volume with medium competition creates good opportunity window. Notion templates are in high demand but we can differentiate by creating a comprehensive PDF guide that teaches template creation + includes ready-to-use templates. This positions us as educational authority while providing immediate value. PDF format works well for step-by-step tutorials with screenshots.",
+      "ai_powered": true,
+      "estimated_price": "$19.97"
     }
   ],
   "products_created": [],
