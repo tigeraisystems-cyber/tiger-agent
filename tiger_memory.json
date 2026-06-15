@@ -4643,6 +4643,24 @@
       "reasoning": "High-opportunity niche with strong fundamentals: Notion has massive user base seeking productivity solutions, templates are highly scalable digital products, medium competition suggests market isn't oversaturated, and we can create comprehensive PDF guides with actual template designs that users can implement immediately.",
       "ai_powered": true,
       "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-06-15T17:21:12.630891",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "create",
+      "confidence": 0.85,
+      "reasoning": "High search volume with medium competition creates an optimal entry point. AI prompt templates are in massive demand as ChatGPT usage explodes, but many existing products are low-quality. We can differentiate with professionally structured, categorized templates that deliver immediate value. Digital delivery as PDF makes this low-risk with high margins.",
+      "ai_powered": true,
+      "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-06-15T17:21:16.131106",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "create",
+      "confidence": 0.85,
+      "reasoning": "High search volume with medium competition indicates strong market demand without oversaturation. Notion dashboard templates are highly visual and actionable - perfect for PDF delivery. Productivity market has proven purchasing behavior, and templates provide immediate value users can implement. This aligns well with digital product creation capabilities.",
+      "ai_powered": true,
+      "estimated_price": "$19.97"
     }
   ],
   "products_created": [],
