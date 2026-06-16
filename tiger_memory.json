@@ -4661,6 +4661,22 @@
       "reasoning": "High search volume with medium competition indicates strong market demand without oversaturation. Notion dashboard templates are highly visual and actionable - perfect for PDF delivery. Productivity market has proven purchasing behavior, and templates provide immediate value users can implement. This aligns well with digital product creation capabilities.",
       "ai_powered": true,
       "estimated_price": "$19.97"
+    },
+    {
+      "timestamp": "2026-06-16T04:59:59.191057",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
+    },
+    {
+      "timestamp": "2026-06-16T04:59:59.294635",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
     }
   ],
   "products_created": [],
