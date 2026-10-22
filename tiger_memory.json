@@ -8725,6 +8725,22 @@
       "confidence": 0.5,
       "reasoning": "No reasoning provided",
       "ai_powered": true
+    },
+    {
+      "timestamp": "2026-10-22T04:06:37.337928",
+      "trend": "AI prompt templates for ChatGPT",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
+    },
+    {
+      "timestamp": "2026-10-22T04:06:37.466663",
+      "trend": "Notion dashboard templates for productivity",
+      "decision": "monitor",
+      "confidence": 0.5,
+      "reasoning": "No reasoning provided",
+      "ai_powered": true
     }
   ],
   "products_created": [],
